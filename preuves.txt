@@ -1,0 +1,46 @@
+PREUVES DE FONCTIONNEMENT - LA CAISSE DE LA CANTINE DE EPP DJAHAKRO
+
+Test 1
+Données utilisées :
+- Code du plat : 1
+- Quantité : 3
+- Montant versé : 5 000 FCFA
+
+Sortie obtenue :
+Client : Awa
+Commande :
+Plat 1 : Attiéké-poisson
+Plat 2 : Attiéké-poisson
+Plat 3 : Attiéké-poisson
+Total à payer : 4500 FCFA
+Monnaie à rendre : 500 FCFA
+
+Test 2
+Données utilisées :
+- Code du plat : 2
+- Quantité : 2
+- Montant versé : 3 000 FCFA
+
+Sortie obtenue :
+Client : Awa
+Commande :
+Plat 1 : Riz-poulet
+Plat 2 : Riz-poulet
+Total à payer : 4000 FCFA
+Montant manquant : 1000 FCFA
+
+Test 3
+Données utilisées :
+- Code du plat : 3
+- Quantité : 4
+- Montant versé : 4 000 FCFA
+
+Sortie obtenue :
+Client : Awa
+Commande :
+Plat 1 : Alloco-œuf
+Plat 2 : Alloco-œuf
+Plat 3 : Alloco-œuf
+Plat 4 : Alloco-œuf
+Total à payer : 4000 FCFA
+Monnaie à rendre : 0 FCFA
